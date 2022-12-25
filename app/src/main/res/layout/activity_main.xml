@@ -200,7 +200,7 @@
             android:layout_weight="1"
             android:text="+"
             style="@style/btnStyle"
-            android:background="@color/purple_700"/>
+            android:background="@color/teal_200"/>
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnMinus"
@@ -209,7 +209,7 @@
             android:layout_weight="1"
             android:text="-"
             style="@style/btnStyle"
-            android:background="@color/purple_700"/>
+            android:background="@color/teal_200"/>
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnMultiply"
@@ -218,7 +218,7 @@
             android:layout_weight="1"
             android:text="*"
             style="@style/btnStyle"
-            android:background="@color/purple_700"/>
+            android:background="@color/teal_200"/>
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnDivide"
@@ -227,7 +227,7 @@
             android:layout_weight="1"
             android:text="/"
             style="@style/btnStyle"
-            android:background="@color/purple_700"/>
+            android:background="@color/teal_200"/>
 
     </LinearLayout>
 
